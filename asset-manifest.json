@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/firstEcommerce/static/css/main.e211341b.css",
+    "main.js": "/firstEcommerce/static/js/main.21377f5c.js",
+    "static/media/paypal.svg": "/firstEcommerce/static/media/paypal.dc18153a24bb8a8c551315a837ada0e6.svg",
+    "static/media/visa-credit-card.svg": "/firstEcommerce/static/media/visa-credit-card.3af9e945035c3721721f05cb90e08d0f.svg",
+    "index.html": "/firstEcommerce/index.html",
+    "static/media/mastercard.svg": "/firstEcommerce/static/media/mastercard.4e68ad4432de218f88bc81cb742a193b.svg",
+    "main.e211341b.css.map": "/firstEcommerce/static/css/main.e211341b.css.map",
+    "main.21377f5c.js.map": "/firstEcommerce/static/js/main.21377f5c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e211341b.css",
+    "static/js/main.21377f5c.js"
+  ]
+}
