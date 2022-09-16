@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/firstEcommerce/static/css/main.4bd7ebc9.css",
-    "main.js": "/firstEcommerce/static/js/main.760a8312.js",
+    "main.css": "/firstEcommerce/static/css/main.55e923c5.css",
+    "main.js": "/firstEcommerce/static/js/main.9a670ffc.js",
     "static/media/paypal.svg": "/firstEcommerce/static/media/paypal.dc18153a24bb8a8c551315a837ada0e6.svg",
     "static/media/visa-credit-card.svg": "/firstEcommerce/static/media/visa-credit-card.3af9e945035c3721721f05cb90e08d0f.svg",
     "index.html": "/firstEcommerce/index.html",
     "static/media/mastercard.svg": "/firstEcommerce/static/media/mastercard.4e68ad4432de218f88bc81cb742a193b.svg",
-    "main.4bd7ebc9.css.map": "/firstEcommerce/static/css/main.4bd7ebc9.css.map",
-    "main.760a8312.js.map": "/firstEcommerce/static/js/main.760a8312.js.map"
+    "main.55e923c5.css.map": "/firstEcommerce/static/css/main.55e923c5.css.map",
+    "main.9a670ffc.js.map": "/firstEcommerce/static/js/main.9a670ffc.js.map"
   },
   "entrypoints": [
-    "static/css/main.4bd7ebc9.css",
-    "static/js/main.760a8312.js"
+    "static/css/main.55e923c5.css",
+    "static/js/main.9a670ffc.js"
   ]
 }
